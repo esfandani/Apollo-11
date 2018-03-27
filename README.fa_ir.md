@@ -1,4 +1,5 @@
-# آپولو-۱۱
+
+#  <div dir="rtl" align="right">  آپولو-۱۱</div>
 [![NASA][1]][2]
 
 <div dir="rtl" align="right">
@@ -8,17 +9,17 @@
     سورس کد  اصلی کامپیوتر هدایت کننده آپولو ۱۱ (AGC)  برای ماژول فرمان (Comanche055)و ماژول ماه  (Luminary099)  که  توسط  افرادی از [Virtual AGC][3] و [4][موزه MIT]  به صورت دیجیتال درآمده است. هدف داشتن مخزنی برای سورس کد آپولو ۱۱ می باشد. به همین منظور من از درخواست بررسی ای (pull request)   که مرتبط به هرنوع مشکلی پیرامون رونوشت بین این مخزن و سورس کد های اسکن شده اصلی برای [Luminary 099][5] و [Comanche 055][6] و یا هر فایلی که من جا انداخته ام٬ استقبال می کنم. 
 </div>
 
-## مشارکت
+## <div dir="rtl" align="right"> مشارکت</div>
 <div dir="rtl" align="right">
 لطفا قبل از باز کردن هرگونه درخواست بررسی فایل  [CONTRIBUTING.md][7] را بخوانید.
 </div>
 
-## کامپایل کردن
+## <div dir="rtl" align="right"> کامپایل کردن</div>
 <div dir="rtl" align="right">
 اگر علاقه مند به کامپال کردن کد اصلی هستید به [Virtual AGC][8] سر بزنید.
 </div>
 
-## مجوز
+## <div dir="rtl" align="right"> مجوز</div>
 ```plain
 Copyright: Public domain.
 Filename:  CONTRACT_AND_APPROVALS.agc
