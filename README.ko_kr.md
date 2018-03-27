@@ -87,6 +87,7 @@ AGC 프로그램 Comanche 어셈블 판본 055, NASA에 의해 작성됨.
 [PT_BR]:README.pt_br.md
 [ES]:README.es.md
 [KO_KR]:README.ko_kr.md
+[fa_IR]:README.fa_ir.md
 [1]:https://cdn.rawgit.com/aleen42/badges/c9246f74/src/nasa.svg
 [2]:https://www.nasa.gov/mission_pages/apollo/missions/apollo11.html
 [3]:http://www.ibiblio.org/apollo/

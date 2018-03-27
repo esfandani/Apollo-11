@@ -1,24 +1,24 @@
-# Apollo-11
+# آپولو-۱۱
 [![NASA][1]][2]
 
-*Available in: [English][EN], [简体中文][ZH_CN], [正體中文][ZH_TW], [Português][PT_BR], [Español][ES], [한국어][KO_KR], [فارسی][fa_IR]*
- 
-Original Apollo 11 guidance computer (AGC) source code for Command
-Module (Comanche055) and Lunar Module (Luminary099). Digitized by
-the folks at [Virtual AGC][3] and [MIT Museum][4]. The goal is to be
-a repo for the original Apollo 11 source code. As such, PRs are
-welcome for any issues identified between the transcriptions in this
-repository and the original source scans for [Luminary 099][5] and
-[Comanche 055][6], as well as any files I may have missed.
+<div dir="rtl" align="right">
+*قابل دسترسی به زبانهای : [English][EN], [简体中文][ZH_CN], [正體中文][ZH_TW], [Português][PT_BR], [Español][ES], [한국어][KO_KR], [فارسی][fa_IR]*
+ </div>
+<div dir="rtl" align="right">
+    سورس کد  اصلی کامپیوتر هدایت کننده آپولو ۱۱ (AGC)  برای ماژول فرمان (Comanche055)و ماژول ماه  (Luminary099)  که  توسط  افرادی از [Virtual AGC][3] و [4][موزه MIT]  به صورت دیجیتال درآمده است. هدف داشتن مخزنی برای سورس کد آپولو ۱۱ می باشد. به همین منظور من از درخواست بررسی ای (pull request)   که مرتبط به هرنوع مشکلی پیرامون رونوشت بین این مخزن و سورس کد های اسکن شده اصلی برای [Luminary 099][5] و [Comanche 055][6] و یا هر فایلی که من جا انداخته ام٬ استقبال می کنم. 
+</div>
 
-## Contributing
-Please read [CONTRIBUTING.md][7] before opening a pull request.
+## مشارکت
+<div dir="rtl" align="right">
+لطفا قبل از باز کردن هرگونه درخواست بررسی فایل  [CONTRIBUTING.md][7] را بخوانید.
+</div>
 
-## Compiling
-If you are interested in compiling the original source code, check
-out [Virtual AGC][8].
+## کامپایل کردن
+<div dir="rtl" align="right">
+اگر علاقه مند به کامپال کردن کد اصلی هستید به [Virtual AGC][8] سر بزنید.
+</div>
 
-## Attribution
+## مجوز
 ```plain
 Copyright: Public domain.
 Filename:  CONTRACT_AND_APPROVALS.agc
